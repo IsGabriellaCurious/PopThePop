@@ -1,0 +1,11 @@
+name: PopThePop
+main: moe.gabriella.popthepop.PopThePop
+version: 1.0
+api-version: 1.16
+author: Gabriella
+description: Ramadan Mubarak 2021
+commands:
+  emergencychat:
+    description: Toggle chat
+    aliases: ec
+    usage: /<command>

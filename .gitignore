@@ -1,0 +1,7 @@
+MTitleAnimator.java
+target/
+out/
+.idea/
+javadocs/
+*.iml
+*.class
